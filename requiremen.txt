@@ -1,3 +1,4 @@
 streamlit
 uuid
-qr code
+gTTs
+qrcode
